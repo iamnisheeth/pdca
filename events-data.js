@@ -5,7 +5,7 @@
 
 var PDCA_UPCOMING_EVENTS = [
   {
-    img: 'images/event1.jpg',
+    img: 'images/event1.svg',
     title: 'World Bicycle Day | Asmita Khelo India Womens Cycling League',
     date: 'June 3, 2026',
     time: '05:30 a.m.',
@@ -13,7 +13,7 @@ var PDCA_UPCOMING_EVENTS = [
     registerUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSddsmdzW6_0yvKkS0TPCjjs3U4UFt1N9GElSFWcNnwHd8ywjg/viewform'
   },
   {
-    img: 'images/event2.jpg',
+    img: 'images/event2.svg',
     title: 'World Bicycle Day | Fit India Cyclothon',
     date: 'June 3, 2026',
     time: '05:30 a.m.',

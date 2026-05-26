@@ -1,0 +1,101 @@
+<svg viewBox="0 0 400 230" width="400" height="230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1f2e"/>
+      <stop offset="100%" stop-color="#1a0a00"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="400" height="230" fill="url(#bg2)"/>
+
+  <!-- India flag stripe accent -->
+  <rect x="0" y="0" width="400" height="5"  fill="#FF9933" opacity="0.8"/>
+  <rect x="0" y="5" width="400" height="3"  fill="white"   opacity="0.15"/>
+  <rect x="0" y="8" width="400" height="5"  fill="#138808" opacity="0.55"/>
+
+  <!-- Decorative circle motifs -->
+  <circle cx="38"  cy="224" r="88" fill="none" stroke="#f97316" stroke-width="1" opacity="0.1"/>
+  <circle cx="385" cy="218" r="76" fill="none" stroke="#0d9488" stroke-width="1" opacity="0.12"/>
+
+  <!-- Ground -->
+  <line x1="0" y1="205" x2="400" y2="205" stroke="#f97316" stroke-width="1" opacity="0.28"/>
+
+  <!-- ══ BIKE A  (far / small)  r=16, cy=189 ══ -->
+  <circle cx="28"  cy="189" r="16" fill="none" stroke="#5eead4" stroke-width="1.4" opacity="0.42"/>
+  <circle cx="28"  cy="189" r="2.5" fill="#0d9488" opacity="0.42"/>
+  <circle cx="92"  cy="189" r="16" fill="none" stroke="#5eead4" stroke-width="1.4" opacity="0.42"/>
+  <circle cx="92"  cy="189" r="2.5" fill="#0d9488" opacity="0.42"/>
+  <!-- Frame: chain stay, seat stay, seat tube, top tube, down tube, fork -->
+  <line x1="28"  y1="189" x2="57"  y2="200" stroke="#0d9488" stroke-width="1.8" stroke-linecap="round" opacity="0.42"/>
+  <line x1="28"  y1="189" x2="44"  y2="167" stroke="#0d9488" stroke-width="1.8" stroke-linecap="round" opacity="0.42"/>
+  <line x1="57"  y1="200" x2="44"  y2="167" stroke="#0d9488" stroke-width="1.8" stroke-linecap="round" opacity="0.42"/>
+  <line x1="44"  y1="167" x2="83"  y2="163" stroke="#0d9488" stroke-width="1.8" stroke-linecap="round" opacity="0.42"/>
+  <line x1="57"  y1="200" x2="83"  y2="163" stroke="#0d9488" stroke-width="1.8" stroke-linecap="round" opacity="0.42"/>
+  <line x1="83"  y1="163" x2="92"  y2="189" stroke="#0d9488" stroke-width="1.8" stroke-linecap="round" opacity="0.42"/>
+  <!-- Chain ring -->
+  <circle cx="57" cy="200" r="6"  fill="none" stroke="#0d9488" stroke-width="1.2" opacity="0.42"/>
+  <!-- Saddle -->
+  <line x1="37"  y1="165" x2="52"  y2="165" stroke="white" stroke-width="2.5" stroke-linecap="round" opacity="0.42"/>
+  <!-- Handlebars -->
+  <line x1="83"  y1="160" x2="87"  y2="156" stroke="white" stroke-width="2"   stroke-linecap="round" opacity="0.42"/>
+  <line x1="85"  y1="154" x2="89"  y2="159" stroke="white" stroke-width="2"   stroke-linecap="round" opacity="0.42"/>
+
+  <!-- ══ BIKE B  (mid)  r=24, cy=181 ══ -->
+  <circle cx="148" cy="181" r="24" fill="none" stroke="#5eead4" stroke-width="2"   opacity="0.65"/>
+  <circle cx="148" cy="181" r="3.5" fill="#0d9488" opacity="0.65"/>
+  <line x1="148" y1="157" x2="148" y2="205" stroke="#5eead4" stroke-width="0.7" opacity="0.2"/>
+  <line x1="124" y1="181" x2="172" y2="181" stroke="#5eead4" stroke-width="0.7" opacity="0.2"/>
+  <circle cx="220" cy="181" r="24" fill="none" stroke="#5eead4" stroke-width="2"   opacity="0.65"/>
+  <circle cx="220" cy="181" r="3.5" fill="#0d9488" opacity="0.65"/>
+  <line x1="220" y1="157" x2="220" y2="205" stroke="#5eead4" stroke-width="0.7" opacity="0.2"/>
+  <line x1="196" y1="181" x2="244" y2="181" stroke="#5eead4" stroke-width="0.7" opacity="0.2"/>
+  <!-- Frame -->
+  <line x1="148" y1="181" x2="180" y2="194" stroke="#0d9488" stroke-width="2.2" stroke-linecap="round" opacity="0.65"/>
+  <line x1="148" y1="181" x2="163" y2="150" stroke="#0d9488" stroke-width="2.2" stroke-linecap="round" opacity="0.65"/>
+  <line x1="180" y1="194" x2="163" y2="150" stroke="#0d9488" stroke-width="2.2" stroke-linecap="round" opacity="0.65"/>
+  <line x1="163" y1="150" x2="210" y2="145" stroke="#0d9488" stroke-width="2.2" stroke-linecap="round" opacity="0.65"/>
+  <line x1="180" y1="194" x2="210" y2="145" stroke="#0d9488" stroke-width="2.2" stroke-linecap="round" opacity="0.65"/>
+  <line x1="210" y1="145" x2="220" y2="181" stroke="#0d9488" stroke-width="2.2" stroke-linecap="round" opacity="0.65"/>
+  <!-- Chain ring -->
+  <circle cx="180" cy="194" r="9"  fill="none" stroke="#0d9488" stroke-width="1.5" opacity="0.65"/>
+  <!-- Saddle -->
+  <line x1="154" y1="147" x2="173" y2="147" stroke="white" stroke-width="3" stroke-linecap="round" opacity="0.65"/>
+  <!-- Handlebars -->
+  <line x1="210" y1="141" x2="216" y2="135" stroke="white" stroke-width="2.5" stroke-linecap="round" opacity="0.65"/>
+  <line x1="213" y1="133" x2="219" y2="139" stroke="white" stroke-width="2.5" stroke-linecap="round" opacity="0.65"/>
+
+  <!-- ══ BIKE C  (lead / large)  r=36, cy=169 ══ -->
+  <circle cx="278" cy="169" r="36" fill="none" stroke="#5eead4" stroke-width="2.5"/>
+  <circle cx="278" cy="169" r="5"  fill="#0d9488"/>
+  <line x1="278" y1="133" x2="278" y2="205" stroke="#5eead4" stroke-width="0.9" opacity="0.3"/>
+  <line x1="242" y1="169" x2="314" y2="169" stroke="#5eead4" stroke-width="0.9" opacity="0.3"/>
+  <line x1="253" y1="144" x2="303" y2="194" stroke="#5eead4" stroke-width="0.9" opacity="0.2"/>
+  <line x1="303" y1="144" x2="253" y2="194" stroke="#5eead4" stroke-width="0.9" opacity="0.2"/>
+  <!-- Front wheel (partially off canvas) -->
+  <circle cx="396" cy="169" r="36" fill="none" stroke="#5eead4" stroke-width="2.5"/>
+  <circle cx="396" cy="169" r="5"  fill="#0d9488"/>
+  <line x1="396" y1="133" x2="396" y2="205" stroke="#5eead4" stroke-width="0.9" opacity="0.3"/>
+  <!-- Frame — orange, full opacity -->
+  <line x1="278" y1="169" x2="325" y2="187" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+  <line x1="278" y1="169" x2="302" y2="118" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+  <line x1="325" y1="187" x2="302" y2="118" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+  <line x1="302" y1="118" x2="378" y2="111" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+  <line x1="325" y1="187" x2="378" y2="111" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+  <line x1="378" y1="111" x2="396" y2="169" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+  <!-- Chain ring -->
+  <circle cx="325" cy="187" r="13" fill="none" stroke="#f97316" stroke-width="2"/>
+  <!-- Saddle -->
+  <line x1="290" y1="115" x2="315" y2="115" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <!-- Handlebars -->
+  <line x1="378" y1="106" x2="388" y2="98"  stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <line x1="384" y1="95"  x2="393" y2="104" stroke="white" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- TEXT -->
+  <text x="185" y="28" fill="white"   font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle" letter-spacing="2">WORLD BICYCLE DAY</text>
+  <line x1="88"  y1="34" x2="282" y2="34" stroke="#0d9488" stroke-width="1" opacity="0.55"/>
+  <text x="185" y="48" fill="#f97316" font-family="Arial,sans-serif" font-size="9"  font-weight="bold" text-anchor="middle" letter-spacing="2">FIT INDIA CYCLOTHON</text>
+
+  <!-- Date pill -->
+  <rect x="133" y="213" width="104" height="14" rx="7" fill="#f97316"/>
+  <text x="185" y="224" fill="white" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle" letter-spacing="1">JUNE 3, 2026</text>
+</svg>
